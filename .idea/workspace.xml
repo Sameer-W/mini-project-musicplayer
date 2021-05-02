@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dd39be39-ff07-4932-9176-f9d4eb887e44" name="Default" comment="Fixed bugs">
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/pages/card_detail.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/pages/card_detail.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/pages/list_songs.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/pages/list_songs.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/util/AAppBar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/util/AAppBar.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/views/artists.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/views/artists.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/views/home.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/views/home.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/views/playlists.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/views/playlists.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/views/songs.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/views/songs.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectId" id="1qZjrIcTxEFLuXnuNhnxN97RLyE" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="2" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544907840069" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd39be39-ff07-4932-9176-f9d4eb887e44" name="Default" comment="" />
+      <created>1529875107721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529875107721</updated>
+      <workItem from="1538044852058" duration="125000" />
+      <workItem from="1538045057748" duration="1263000" />
+      <workItem from="1538160860387" duration="620000" />
+      <workItem from="1538164589438" duration="5611000" />
+      <workItem from="1538381804567" duration="696000" />
+      <workItem from="1538417119945" duration="693000" />
+      <workItem from="1538604677188" duration="33000" />
+      <workItem from="1538604775369" duration="7937000" />
+      <workItem from="1538713901505" duration="995000" />
+      <workItem from="1538858122734" duration="1449000" />
+      <workItem from="1540061299435" duration="771000" />
+      <workItem from="1540421040378" duration="2330000" />
+      <workItem from="1540447512693" duration="27648000" />
+      <workItem from="1541778411518" duration="26019000" />
+      <workItem from="1542040706508" duration="163000" />
+      <workItem from="1542140581530" duration="131000" />
+      <workItem from="1542141093865" duration="430000" />
+      <workItem from="1542207863119" duration="468000" />
+      <workItem from="1542389199938" duration="513000" />
+      <workItem from="1542675728421" duration="86000" />
+      <workItem from="1543961398094" duration="1978000" />
+      <workItem from="1544006463821" duration="2885000" />
+      <workItem from="1544688586132" duration="12287000" />
+      <workItem from="1544720585021" duration="3515000" />
+      <workItem from="1544784880966" duration="68000" />
+      <workItem from="1544819997539" duration="4160000" />
+      <workItem from="1544904310077" duration="3245000" />
+    </task>
+    <task id="LOCAL-00001" summary="New Release v0.1.1">
+      <created>1529877598386</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1529877598386</updated>
+    </task>
+    <task id="LOCAL-00002" summary="New Release v0.1.1">
+      <created>1529879979994</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1529879979994</updated>
+    </task>
+    <task id="LOCAL-00003" summary="New Release v0.1.1">
+      <created>1529880254105</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1529880254105</updated>
+    </task>
+    <task id="LOCAL-00004" summary="New Release v0.1.1">
+      <created>1529882578495</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1529882578495</updated>
+    </task>
+    <task id="LOCAL-00005" summary="New Release v0.1.1">
+      <created>1529888155605</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1529888155605</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Bugs Fixed">
+      <created>1529894604372</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1529894604372</updated>
+    </task>
+    <task id="LOCAL-00007" summary="New Font Added">
+      <created>1530038472097</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1530038472097</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Splash Screen added">
+      <created>1530043927448</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1530043927448</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Icons and accentColor changed">
+      <created>1530092808572</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1530092808572</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Icons and accentColor changed">
+      <created>1530092927730</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1530092927730</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Updated README.md">
+      <created>1530111997275</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1530111997275</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Updated README.md">
+      <created>1530112104260</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1530112104260</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Updated README.md">
+      <created>1530112337051</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1530112337051</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Updated README.md">
+      <created>1530112415603</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1530112415603</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Updated README.md">
+      <created>1530112455817</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1530112455817</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Updated README.md">
+      <created>1530115415930</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1530115415930</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Updated README.md">
+      <created>1530115443286</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1530115443286</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Added Bottom App bar">
+      <created>1535056604608</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1535056604608</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Simple Appbar">
+      <created>1535480513801</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1535480513801</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Updated README.md">
+      <created>1535489261748</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1535489261748</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Playlist Section revisited">
+      <created>1535561135025</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1535561135025</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Home Section revisited">
+      <created>1535642706456</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1535642706456</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Home Section revisited">
+      <created>1535653628703</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1535653628703</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Home Section revisited">
+      <created>1537262927831</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1537262927831</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Home Section revisited">
+      <created>1538045368573</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1538045368574</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Now Playing revisited">
+      <created>1540182580044</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1540182580044</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Now Playing revisited">
+      <created>1540227591498</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1540227591498</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Now Playing revisited">
+      <created>1540228250210</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1540228250210</updated>
+    </task>
+    <task id="LOCAL-00029" summary="New Release 0.3.0">
+      <created>1540231385298</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1540231385298</updated>
+    </task>
+    <task id="LOCAL-00030" summary="New Release 0.3.0">
+      <created>1540231829557</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1540231829557</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Added last.fm API for artist images">
+      <created>1540411934829</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1540411934830</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Some tweaks">
+      <created>1540745111566</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1540745111566</updated>
+    </task>
+    <task id="LOCAL-00033" summary="added search">
+      <created>1541961063824</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1541961063824</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Update README.md">
+      <created>1541963880840</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1541963880840</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Fixed bugs">
+      <created>1574700227888</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1574700227888</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="106119000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New Release v0.1.1" />
+    <MESSAGE value="Bugs Fixed" />
+    <MESSAGE value="New Font Added" />
+    <MESSAGE value="Splash Screen added" />
+    <MESSAGE value="Icons and accentColor changed" />
+    <MESSAGE value="Added Bottom App bar" />
+    <MESSAGE value="Simple Appbar" />
+    <MESSAGE value="Updated README.md" />
+    <MESSAGE value="Playlist Section revisited" />
+    <MESSAGE value="Home Section revisited" />
+    <MESSAGE value="Now Playing revisited" />
+    <MESSAGE value="New Release 0.3.0" />
+    <MESSAGE value="Added last.fm API for artist images" />
+    <MESSAGE value="Some tweaks" />
+    <MESSAGE value="added search" />
+    <MESSAGE value="Update README.md" />
+    <MESSAGE value="Fixed bugs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed bugs" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1617301788066">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1617301788066" />
+    <state width="1236" height="177" key="GridCell.Tab.0.bottom" timestamp="1618725773217">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="177" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1618725773217" />
+    <state width="1236" height="177" key="GridCell.Tab.0.center" timestamp="1618725773217">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="177" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1618725773217" />
+    <state width="1236" height="177" key="GridCell.Tab.0.left" timestamp="1618725773217">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="177" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1618725773217" />
+    <state width="1236" height="177" key="GridCell.Tab.0.right" timestamp="1618725773217">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="177" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1618725773217" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>grey_android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Dart Packages</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
