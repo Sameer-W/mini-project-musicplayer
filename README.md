@@ -48,7 +48,7 @@
 <p align = "center">
   <img height="50" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg"> &nbsp; &nbsp; 
   <img height="50" src="https://www.scottbrady91.com/img/logos/dart.svg"> &nbsp; &nbsp; 
-  <img height="25" src="https://cs111.wellesley.edu/archive/cs111_fall16/public_html/content/labs/lab11//images/lastfm.png">
+  <img height="50" width = "50" src="https://cs111.wellesley.edu/archive/cs111_fall16/public_html/content/labs/lab11//images/lastfm.png">
 </p>
 
 
