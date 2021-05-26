@@ -40,16 +40,6 @@
     <img src="Images\mongoDB.PNG">
     </p>
 
-
-## Featured technologies:
-
--   MySQL: MySQL Database Service is a fully managed database service to deploy cloud-native applications
-
--   Python: Python is a programming language that lets you work more quickly and integrate your systems more effectively.
-
--   MongoDB: MongoDB is a NoSQL document database with the scalability and flexibility that you want with the querying and indexing that you need.
-
-
 ## Tools and Technologies used
 
 <p>
