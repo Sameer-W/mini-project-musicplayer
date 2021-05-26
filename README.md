@@ -39,9 +39,9 @@
 <img src="ss/1.png" height="520px">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;<img src="ss/2.png" height="520px">&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;<img src="ss/3.png" height="520px">
 
 <img src="ss/4.png" height="520px">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;<img src="ss/5.png" height="520px">&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;<img src="ss/6.png" height="520px">
-
+<div align="center">
 <img src="ss/7.png" height="520px">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;<img src="ss/8.png" height="520px">
-
+</div>
 
 # Tools and Technologies used
 
