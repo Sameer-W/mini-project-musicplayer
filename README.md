@@ -1,9 +1,5 @@
 <h1 align="center">Music Player App</h1>
-<p>
-  <img src="https://img.shields.io/badge/Made%20with-Flutter-1f425f.svg"/> &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/Made%20with-Dart-1f425f.svg"/> &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/Made%20with-lol-1f425f.svg"/> &nbsp; &nbsp;
-</p>
+[![](https://img.shields.io/badge/Made_with-Flutter-red?style=for-the-badge&logo=flutter)](https://flutter.dev/ "Flutter")
 
 
 <h1>Project By</h1>
