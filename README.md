@@ -1,4 +1,4 @@
-<h1 align="center">Migration-from-SQL-to-NoSQL</h1>
+<h1 align="center">Music Player App</h1>
 <p>
   <img src="https://img.shields.io/badge/Made%20with-Flutter-1f425f.svg"/> &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/Made%20with-Dart-1f425f.svg"/> &nbsp; &nbsp;
@@ -8,15 +8,15 @@
 
 <h1>Project By</h1>
 
-| <h3>Dhairya Shah</h3> | <h3>Sameer Wadhwa</h3> |
-| -------------------- | ---------------------- |
-| <h3>1911119 </h3>    | <h3>1911131</h3>       |
-| <h3>B4</h3>          | <h3>B4</h3>            |
+| <h3>Dhairya Shah</h3> | <h3>Peeya Thacker</h3> | <h3>Sameer Wadhwa</h3> |
+| -------------------- | ---------------------- | ---------------------- |
+| <h3>1911119 </h3>    | <h3>1911127</h3>       | <h3>1911131</h3>       |
+| <h3>B4</h3>          | <h3>B4</h3>            | <h3>B4</h3>            |
 
-<h1>Faculty</h1>
+<h1>Project Mentor</h1>
 
-| <h3>Prof. Pradnya Bhangale</h3> | <h3>Prof. Vaibhav Vasani</h3> |
-| ------------------------------- | ----------------------------- |
+| <h3>Prof. Arcahana Gupta</h3> | 
+| ------------------------------- |
 
 
 ## Prerequisites
