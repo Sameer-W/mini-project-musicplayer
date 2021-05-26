@@ -46,7 +46,7 @@
 # Tools and Technologies used
 
 <p>
-  <img height="50" src="Images\mysql-logo.svg"> &nbsp; &nbsp; 
+  <img height="50" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg"> &nbsp; &nbsp; 
   <img height="50" src="Images\python-logo.png"> &nbsp; &nbsp; 
   <img height="50" src="Images\mongodb-logo.svg">
 </p>
