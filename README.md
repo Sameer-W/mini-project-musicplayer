@@ -34,7 +34,7 @@
 -   Open the project using Andriod studio / Visual studio code
 -   Run `flutter pub get` in terminal to install all package dependencies
 
-    <img src="ss\1.PNG">
+    <img src="ss\1.png">
     </br>
     <p align="center">
     <img src="Images\mongoDB.PNG">
