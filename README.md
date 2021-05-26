@@ -47,7 +47,7 @@
 
 <p>
   <img height="50" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg"> &nbsp; &nbsp; 
-  <img height="50" src="https://www.stickpng.com/img/download/5847f289cef1014c0b5e486b"> &nbsp; &nbsp; 
+  <img height="50" src="https://seeklogo.com/images/D/dart-logo-FDA1939EC4-seeklogo.com.png"> &nbsp; &nbsp; 
   <img height="50" src="Images\mongodb-logo.svg">
 </p>
 
