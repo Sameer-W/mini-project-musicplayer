@@ -48,7 +48,7 @@
 <p align = "center">
   <img height="50" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg"> &nbsp; &nbsp; 
   <img height="50" src="https://www.scottbrady91.com/img/logos/dart.svg"> &nbsp; &nbsp; 
-  <img height="50" src="Images\mongodb-logo.svg">
+  <img height="50" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/v1397180411/c1f563ec54c841aa2b4f0062b20f6b7b.png">
 </p>
 
 
