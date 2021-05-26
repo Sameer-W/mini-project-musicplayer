@@ -19,13 +19,13 @@
 | ------------------------------- |
 
 
-## Prerequisites
+# Prerequisites
 
   -   A system running Windows 10/Linux/MacOS
   -   Flutter SDK
   -   Android Studio / Visual Studio Code
 
-## Running the project
+# Running the project
 
 -   Open the terminal/command prompt.
 -   Clone the repository.
@@ -34,7 +34,7 @@
 -   Open the project using Andriod studio / Visual studio code
 -   Run `flutter pub get` in terminal to install all package dependencies
 
-## Screenshots
+# Screenshots
 
 <img src="ss/1.png" height="520px">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;<img src="ss/2.png" height="520px">&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;<img src="ss/3.png" height="520px">
 
@@ -43,7 +43,7 @@
 <img src="ss/7.png" height="520px">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;<img src="ss/8.png" height="520px">
 
 
-## Tools and Technologies used
+# Tools and Technologies used
 
 <p>
   <img height="50" src="Images\mysql-logo.svg"> &nbsp; &nbsp; 
