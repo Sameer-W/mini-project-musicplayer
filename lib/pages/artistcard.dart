@@ -98,7 +98,7 @@ class stateCardDetail extends State<ArtistCard> {
                     title: Text(
                       widget.song.artist,
                       style: TextStyle(
-                          color: Colors.white,
+                          color: Colors.black87,
                           fontSize: 20.0,
                           fontWeight: FontWeight.w600,
                           letterSpacing: 1.0),

@@ -8,6 +8,9 @@
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
   <component name="CMakeSettings">
     <configurations>
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
@@ -15,15 +18,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd39be39-ff07-4932-9176-f9d4eb887e44" name="Default" comment="Fixed bugs">
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/pages/card_detail.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/pages/card_detail.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/pages/list_songs.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/pages/list_songs.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grey.iml" beforeDir="false" afterPath="$PROJECT_DIR$/music.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Flutter/flutter_export_environment.sh" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Flutter/flutter_export_environment.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/pages/artistcard.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/pages/artistcard.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/util/AAppBar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/util/AAppBar.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/views/artists.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/views/artists.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/views/home.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/views/home.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/views/playlists.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/views/playlists.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/views/songs.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/views/songs.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +37,7 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[SerialNumber@c9ab2cf6]" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -86,6 +90,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -139,6 +144,7 @@
       </method>
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -491,22 +497,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1617301788066" />
-    <state width="1236" height="177" key="GridCell.Tab.0.bottom" timestamp="1618725773217">
+    <state width="1237" height="273" key="GridCell.Tab.0.bottom" timestamp="1622232751948">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1236" height="177" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1618725773217" />
-    <state width="1236" height="177" key="GridCell.Tab.0.center" timestamp="1618725773217">
+    <state width="1237" height="273" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1622232751948" />
+    <state width="1237" height="273" key="GridCell.Tab.0.center" timestamp="1622232751948">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1236" height="177" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1618725773217" />
-    <state width="1236" height="177" key="GridCell.Tab.0.left" timestamp="1618725773217">
+    <state width="1237" height="273" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1622232751948" />
+    <state width="1237" height="273" key="GridCell.Tab.0.left" timestamp="1622232751948">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1236" height="177" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1618725773217" />
-    <state width="1236" height="177" key="GridCell.Tab.0.right" timestamp="1618725773217">
+    <state width="1237" height="273" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1622232751948" />
+    <state width="1237" height="273" key="GridCell.Tab.0.right" timestamp="1622232751948">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1236" height="177" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1618725773217" />
+    <state width="1237" height="273" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1622232751948" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />

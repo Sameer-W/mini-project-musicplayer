@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
         errorColor: Colors.transparent,
         fontFamily: "Google Sans"
       ),
-      darkTheme: ThemeData.dark(),
+      // darkTheme: ThemeData.dark(),
       home: MusicHome(),
     );
   }

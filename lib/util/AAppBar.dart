@@ -39,7 +39,7 @@ class GreyAppBar extends StatelessWidget implements PreferredSizeWidget {
             height: MediaQuery.of(context).padding.top,
           ),
           Padding(
-            padding: EdgeInsets.only(top: 20.0, left: isBack ? 0.0 : 20.0),
+            padding: EdgeInsets.only(top: 10.0, left: isBack ? 0.0 : 20.0),
             child: Row(
               children: <Widget>[
                 Container(
@@ -57,7 +57,7 @@ class GreyAppBar extends StatelessWidget implements PreferredSizeWidget {
                   title,
                   style: TextStyle(
                     color: Colors.black54,
-                    fontSize: 38.0,
+                    fontSize: 32.0,
                     fontWeight: FontWeight.bold,
                     letterSpacing: 2.0,
                   ),
